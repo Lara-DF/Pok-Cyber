@@ -3,10 +3,12 @@
 1. Nome do projeto
 
 Nome do sistema: POKÉCYBER - Your Cyber Pokédex!
+
 <br>
 2. Sobre o projeto:
 
 O PokéCyber é uma aplicação web interativa que combina o universo Pokémon com uma estética visual Retro Cyberpunk Arcade / Game Boy Color Neon. O projeto consome dados em tempo real da PokéAPI e oferece uma experiência completa para entusiastas e desenvolvedores.
+
 <br>
 3. Estética & Design System
 
@@ -21,6 +23,7 @@ Paleta Neon: Tons vibrantes de Rosa Neon (#ff007f), Verde Neon (#00ff66), Cobre 
 Pixel Borders: Caixas com bordas espessas e sombras ortogonais estilizadas em pixel art.
 
 Tipografia: Uso das fontes Press Start 2P (para títulos arcade) e Silkscreen (para leitura de dados).
+
 <br>
 4. Funcionalidades:
 
@@ -61,6 +64,7 @@ Seleção de até 6 Pokémons salvos localmente (localStorage).
 Adição/remoção rápida clicando na estrela do card.
 
 Resumo de Stats do Time: Cálculo automático do total acumulado de atributos da equipe.
+
 <br>
 5. Tecnologias utilizadas:
 
@@ -75,6 +79,7 @@ PHP : Suporte nativo a requisições cURL no lado do servidor com integração �
 PokéAPI v2: Fonte pública e gratuita de dados detalhados da franquia.
 
 FontAwesome 6: Ícones temáticos estilizados para jogos.
+
 <br>
 6. Demonstração
 
@@ -100,6 +105,7 @@ exclusão:
 <br>
 10. Integrante:
 Lara De Freitas
+
 <br>
 11. Vídeo
 
