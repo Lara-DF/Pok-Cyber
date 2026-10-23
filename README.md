@@ -83,11 +83,15 @@ FontAwesome 6: Ícones temáticos estilizados para jogos.
 <br>
 6. Demonstração
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e3827f67-9221-4f2d-bbe5-43530f4415ff" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/179aba69-0aec-417d-acd0-17f5fbdb6670" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d858ec15-a025-4cb7-8cee-6592b3e97bb5" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e9e2f5ad-45c3-4e45-a938-722b0d101745" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/28f3195d-fd5e-4543-b16d-08caa8179db9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e1ef7175-f728-4f40-984f-87bdfc746620" />
+
+
+
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/96547cd4-4464-4f6c-b520-f274fca896e9" />
 
 
