@@ -2,18 +2,99 @@
 
 1. Nome do projeto
 
-Nome do sistema: Lista de Desejos (Wishlist)
-Produtos desejados com link, preço estimado, loja e status de comprado ou não.
+Nome do sistema: POKÉCYBER - Your Cyber Pokédex!
 
 2. Sobre o projeto:
 
- Adiciona produtos à lista de desejos;
- Informa o nome, link, preço estimado e loja do produto;
- Visualiza os produtos cadastrados;
- Edita as informações dos produtos;
- Exclui produtos da lista;
- Altera o status do produto entre pendente e comprado;
- Acompanha os itens que já foram comprados e os que ainda estão pendentes.
+O PokéCyber é uma aplicação web interativa que combina o universo Pokémon com uma estética visual Retro Cyberpunk Arcade / Game Boy Color Neon. O projeto consome dados em tempo real da PokéAPI e oferece uma experiência completa para entusiastas e desenvolvedores.
+
+🚀 Principais Funcionalidades
+
+Exploração Completa da Pokédex (Gens 1 a 9):
+
+Acesso aos 1.025 Pokémons registrados até a 9ª geração (Paldea).
+
+Suporte a paginação dinâmica ("Carregar Mais Pokémons").
+
+Filtros Avançados & Busca com Autocomplete:
+
+Busca Rápida: Por nome ou número da Pokédex (#ID).
+
+Sugestões Instantâneas: Menu suspenso de busca com autocomplete.
+
+Filtros Combinados: Por Geração (Gen 1-9) e/ou por Tipo (Fire, Water, Grass, Electric, etc.).
+
+Modal Detalhado de Pokémon:
+
+Visualizador de Sprites: Alternância entre os estilos Retro (Pixel Art), Shiny e Artwork Oficial.
+
+Grito / Som (Cries): Reprodução do áudio característico do Pokémon em 8-bit.
+
+Cadeia Evolutiva: Exibição da linha de evolução com links diretos para navegação.
+
+Estatísticas RPG: Barras de status (HP, ATK, DEF, SPA, SPD, SPEED) estilizadas.
+
+Medidas: Exibição de peso e altura formatados em metros e quilos.
+
+Sistema "Monte seu Time de Batalha":
+
+Seleção de até 6 Pokémons salvos localmente (localStorage).
+
+Adição/remoção rápida clicando na estrela do card.
+
+Resumo de Stats do Time: Cálculo automático do total acumulado de atributos da equipe.
+
+Painel de Inspeção Acadêmica (PHP cURL & JSON):
+
+Demonstração prática do consumo da API no Backend (PHP cURL) e no Frontend (JavaScript Fetch).
+
+Visualizador dinâmico da estrutura JSON pura do Pokémon selecionado.
+
+🎨 Estética & Design System
+
+Estilo Visual: Inspirado nas interfaces de jogos arcade dos anos 80/90 com iluminação neon cyberpunk.
+
+Efeitos Especiais:
+
+Overlay CRT / Scanlines: Linhas sutis simulando a tela de uma TV antiga de tubo.
+
+Paleta Neon: Tons vibrantes de Rosa Neon (#ff007f), Verde Neon (#00ff66), Cobre Cyan (#00f3ff) e Amarelo Arcade (#ffe600).
+
+Pixel Borders: Caixas com bordas espessas e sombras ortogonais estilizadas em pixel art.
+
+Tipografia: Uso das fontes Press Start 2P (para títulos arcade) e Silkscreen (para leitura de dados).
+
+🛠️ Tecnologias Utilizadas
+
+HTML5 & CSS3: Estruturação semântica e estilização customizada para efeitos CRT e Pixel Box.
+
+Tailwind CSS: Utilitários de layout responsivo, espaçamentos e grids.
+
+JavaScript (ES6+ Asynchronous): Requisições async/await, manipulação do DOM e persistência local (localStorage).
+
+PHP (Opcional no servidor): Suporte nativo a requisições cURL no lado do servidor com integração à URL GET index.php?search=....
+
+PokéAPI v2: Fonte pública e gratuita de dados detalhados da franquia.
+
+FontAwesome 6: Ícones temáticos estilizados para jogos.
+
+📁 Arquivos do Projeto
+
+| Arquivo | Descrição |
+| index.php | Versão híbrida completa com suporte a requisições servidor-servidor via PHP cURL + JS. |
+| index.html | Versão para execução direta no navegador (Client-side puro em JS). |
+
+💡 Como Executar
+
+Opção Client-side: Abra o arquivo index.html diretamente em qualquer navegador moderno.
+
+Opção PHP Backend: Execute o arquivo index.php em um servidor local (como XAMPP, Laragon, WampServer ou o servidor embutido do PHP com php -S localhost:8000).
+
+
+eof
+
+Este documento resume a proposta, as tecnologias e a estrutura de telas do seu projeto. Caso queira adicionar novas mecânicas ou ajustes de layout, é só falar!
+
 
 3. Funcionalidades:
 
