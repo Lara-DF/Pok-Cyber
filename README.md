@@ -100,6 +100,7 @@ FontAwesome 6: Ícones temáticos estilizados para jogos.
 
 
 <br>
+
 10. Integrante:
 Lara De Freitas
 
